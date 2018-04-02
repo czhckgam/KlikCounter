@@ -1,0 +1,6 @@
+C:\Users\mail\Source\Repos\KlikCounter\KlikCounter\bin\Release\KlikCounter.exe.config
+C:\Users\mail\Source\Repos\KlikCounter\KlikCounter\bin\Release\KlikCounter.exe
+C:\Users\mail\Source\Repos\KlikCounter\KlikCounter\bin\Release\KlikCounter.pdb
+C:\Users\mail\Source\Repos\KlikCounter\KlikCounter\obj\Release\KlikCounter.csproj.CoreCompileInputs.cache
+C:\Users\mail\Source\Repos\KlikCounter\KlikCounter\obj\Release\KlikCounter.exe
+C:\Users\mail\Source\Repos\KlikCounter\KlikCounter\obj\Release\KlikCounter.pdb

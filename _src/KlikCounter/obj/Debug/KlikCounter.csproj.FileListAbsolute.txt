@@ -1,0 +1,7 @@
+C:\Users\mail\Source\Repos\KlikCounter\KlikCounter\bin\Debug\KlikCounter.exe.config
+C:\Users\mail\Source\Repos\KlikCounter\KlikCounter\bin\Debug\KlikCounter.exe
+C:\Users\mail\Source\Repos\KlikCounter\KlikCounter\bin\Debug\KlikCounter.pdb
+C:\Users\mail\Source\Repos\KlikCounter\KlikCounter\obj\Debug\KlikCounter.csprojResolveAssemblyReference.cache
+C:\Users\mail\Source\Repos\KlikCounter\KlikCounter\obj\Debug\KlikCounter.csproj.CoreCompileInputs.cache
+C:\Users\mail\Source\Repos\KlikCounter\KlikCounter\obj\Debug\KlikCounter.exe
+C:\Users\mail\Source\Repos\KlikCounter\KlikCounter\obj\Debug\KlikCounter.pdb
